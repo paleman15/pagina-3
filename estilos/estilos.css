@@ -1,0 +1,116 @@
+
+
+
+
+body{
+background-image: url("../imagenes/grisclaro.jpg");
+
+}
+
+
+.top1{
+    border-bottom: steelblue double;
+    padding: 15px;
+}
+
+
+
+
+
+
+.foto1{
+
+float: right;
+border: 3px solid rgba(134, 134, 134, 0.507);
+padding: 5px;
+}
+.foto1:hover{
+    border: 3px solid darkcyan;
+}
+
+
+.titulo1{
+
+    color: rgba(9, 1, 48, 0.726);
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.titulo1:hover{
+    color: darkcyan;
+    font-size: 50px;
+}
+
+.titulo2{
+    color: rgb(25, 26, 25);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+
+
+.btn1:hover{
+    background-color: rgba(56, 56, 223, 0.664);
+    color: white;
+}
+
+
+
+.btn1{
+    color: darkslategrey;
+    text-decoration: none;
+    border: 3px transparent solid;
+    padding: 15px 35px;
+    float: right;
+    background-color:  rgba(255, 255, 255, 0.521);
+}
+
+.btn2:hover{
+    background-color: rgba(56, 56, 223, 0.664);
+    color: white;
+}
+
+
+
+.btn2{
+    color: darkslategrey;
+    text-decoration: none;
+    border: 3px transparent;
+    padding: 15px 35px;
+    float: right;
+    background-color:  rgba(255, 255, 255, 0.521);
+}
+
+.div1{
+
+border-top: darkslategrey double;
+padding: 15px;
+border-bottom: wheat dotted;
+
+}
+
+.sep1{
+
+border: solid transparent;
+padding: 18px;
+
+}
+
+.sep12{
+
+    border-bottom: dodgerblue double;
+    padding: 18px;
+    
+    }
+
+
+.foto12:hover{
+   color: steelblue;
+}
+.foto12{
+    padding-right: 200px ;
+ }
+ table{
+border: cornflowerblue double;
+border-radius: 3px;
+
+ }
